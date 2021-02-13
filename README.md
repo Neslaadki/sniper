@@ -1,2 +1,6 @@
-# web_1
-IT's my first step at web-world!
+# Первая лабораторная работа по ВЕБ-программированию
+####stack:
+1) php
+2) html
+3) js
+4) css
